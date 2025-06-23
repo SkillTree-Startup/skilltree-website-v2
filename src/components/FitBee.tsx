@@ -17,7 +17,7 @@ const FitBee = ({mockupImage, appColor }) => {
             </svg>
             <div>skilltree</div>
           </div>
-          <div className="app-name">Workout Progressions Made Easy</div>
+          <div className="app-name">Testing the GitHub</div>
           <h1>Your all in one calisthenics trainer</h1>
           <h1>Build skills & complete with friends</h1>
           <div className="qr-and-store">
